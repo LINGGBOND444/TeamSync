@@ -1,5 +1,8 @@
 .env
-results/*.json
+results/
 __pycache__/
 *.pyc
+*.log
 .streamlit/
+.DS_Store
+Thumbs.db
